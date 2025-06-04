@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="49.525562mm"
+   height="31.017809mm"
+   viewBox="0 0 49.525562 31.017809"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="rc.svg"
+   inkscape:export-filename="rc.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.1596222"
+     inkscape:cx="-95.387054"
+     inkscape:cy="156.50886"
+     inkscape:window-width="2496"
+     inkscape:window-height="1387"
+     inkscape:window-x="73"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g35" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.149201,-63.567946)">
+    <g
+       id="use42"
+       transform="translate(56.588806,48.3899)">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,11.241833,3.6209769)"
+         id="g7">
+        <title
+           id="title4">resistor: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g5">
+          <path
+             d="m 8.3628218,36.299968 v -5.650517 m 0,-8.689538 v -5.659937"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path4" />
+          <path
+             d="M 8.3628218,30.764617 6.787818,29.777914 9.9378256,28.333815 6.787818,26.88972 9.9378256,25.445624 6.787818,24.001525 9.9378256,22.557426 8.3628218,21.835376"
+             style="stroke:#000000;stroke-width:0.352801;stroke-linejoin:bevel;stroke-miterlimit:10"
+             id="path5" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g6">
+          <text
+             class="f0"
+             x="4.3319635"
+             y="27.056585"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text5">R</text>
+        </g>
+      </g>
+      <title
+         id="title7">resistor: small</title>
+    </g>
+    <g
+       id="use49"
+       transform="translate(55.602263,37.015708)">
+      <g
+         transform="matrix(0.7498994,0,0,0.75,12.241833,7.243453)"
+         id="g14">
+        <title
+           id="title8">capacior: small</title>
+        <g
+           fill="none"
+           style="stroke-width:1.33342"
+           id="g12">
+          <path
+             d="m 8.3628218,66.299967 v -8.950019 m 0,-2.099954 v -8.950019"
+             style="stroke:#000000;stroke-width:0.352889;stroke-miterlimit:10"
+             id="path8" />
+          <path
+             d="M 5.2128071,57.349948 H 11.512836 M 5.2128071,55.249994 h 6.3000289"
+             style="stroke:#000000;stroke-width:0.352801;stroke-miterlimit:10"
+             id="path11" />
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g13">
+          <text
+             class="f0"
+             x="4.0265608"
+             y="57.056583"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text12">C</text>
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g33"
+           transform="translate(25.570623,0.26178013)">
+          <text
+             class="f0"
+             x="2.6152604"
+             y="57.056583"
+             style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+             id="text32">U</text>
+          <text
+             class="f1"
+             x="2.7536387"
+             y="57.583771"
+             style="font-size:3.29281px;font-family:'Latin Modern Roman';stroke-width:0.354213;stroke-miterlimit:10"
+             id="text33">C</text>
+        </g>
+        <g
+           style="stroke-width:1.33342"
+           id="g35"
+           transform="translate(24.785177,-22.556721)">
+          <g
+             id="g36"
+             transform="translate(0,3.5277779)">
+            <text
+               class="f0"
+               x="2.6152604"
+               y="57.056583"
+               style="font-size:4.70402px;font-family:'Latin Modern Roman Slanted';text-align:end;text-anchor:end;stroke-width:0.354213;stroke-miterlimit:10"
+               id="text34">U</text>
+            <text
+               class="f1"
+               x="2.7536387"
+               y="57.583771"
+               style="font-size:3.29281px;font-family:'Latin Modern Roman';stroke-width:0.354213;stroke-miterlimit:10"
+               id="text35">R</text>
+          </g>
+        </g>
+      </g>
+      <title
+         id="title14">capacior: small</title>
+    </g>
+    <g
+       id="use555"
+       transform="translate(203.84342,-102.52106)">
+      <title
+         id="title15">voltage: ac</title>
+      <g
+         id="g17">
+        <path
+           d="m -152.63946,191.95796 v -6.84998 m 0,-6.30003 v -6.84998"
+           fill="none"
+           id="path15"
+           style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+        <path
+           d="m -155.78947,181.95797 c 0,1.73972 1.41028,3.15001 3.15001,3.15001 1.73973,0 3.15001,-1.41029 3.15001,-3.15001 0,-1.73973 -1.41028,-3.15002 -3.15001,-3.15002 -1.73973,0 -3.15001,1.41029 -3.15001,3.15002 z m 3.15001,0"
+           fill="none"
+           id="path16"
+           style="stroke:#000000;stroke-width:0.264583;stroke-miterlimit:10;stroke-dasharray:none" />
+        <path
+           d="m -151.06446,181.95797 c -0.25672,0.40319 -0.50242,0.7875 -0.7875,0.7875 -0.28507,0 -0.53077,-0.38431 -0.7875,-0.7875 -0.25672,-0.4032 -0.50242,-0.78751 -0.7875,-0.78751 -0.28507,0 -0.53077,0.3843 -0.7875,0.78751"
+           fill="none"
+           id="path17"
+           style="stroke:#000000;stroke-width:0.246944;stroke-miterlimit:10;stroke-dasharray:none" />
+      </g>
+      <g
+         id="g18">
+        <text
+           class="f0"
+           x="-160.41873"
+           y="182.71458"
+           id="text17"
+           style="font-size:3.52778px;font-family:'Latin Modern Roman Slanted';fill:#000000;stroke:none;stroke-width:0.265642;stroke-miterlimit:10"><tspan
+             style="text-align:end;text-anchor:end"
+             id="tspan17">U</tspan></text>
+        <text
+           class="f1"
+           x="-160.89444"
+           y="183.24176"
+           id="text18"
+           style="font-size:2.46944px;font-family:'Latin Modern Roman';fill:#000000;stroke:none;stroke-width:0.265642;stroke-miterlimit:10">ges</text>
+      </g>
+      <title
+         id="title18">voltage: ac</title>
+    </g>
+    <g
+       id="use143"
+       transform="translate(48.778868,60.960198)">
+      <title
+         id="title19">node port</title>
+      <path
+         d="M 38.362832,3.299976 H 40.3628"
+         fill="none"
+         id="path19"
+         style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      <path
+         d="m 40.922704,3.299976 c 0,-0.3092284 -0.250676,-0.5599036 -0.559904,-0.5599036 -0.309228,0 -0.559904,0.2506752 -0.559904,0.5599036 0,0.3092284 0.250676,0.5599036 0.559904,0.5599036 0.309228,0 0.559904,-0.2506752 0.559904,-0.5599036 z"
+         id="path20"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      <g
+         id="g20"
+         transform="matrix(0.35277777,0,0,0.35277777,62.11588,24.493153)"
+         style="stroke:none;stroke-width:0.753;stroke-miterlimit:10" />
+      <title
+         id="title20">node port</title>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 51.193083,69.551422 -0.08087,-5.499415 36.150565,0.242623"
+       id="path25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 51.193083,88.588154 -0.08087,5.499415 36.150565,-0.242623"
+       id="path26" />
+    <g
+       id="g29"
+       transform="translate(48.778868,90.59355)">
+      <title
+         id="title26">node port</title>
+      <path
+         d="M 38.362832,3.299976 H 40.3628"
+         fill="none"
+         id="path27"
+         style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      <path
+         d="m 40.922704,3.299976 c 0,-0.3092284 -0.250676,-0.5599036 -0.559904,-0.5599036 -0.309228,0 -0.559904,0.2506752 -0.559904,0.5599036 0,0.3092284 0.250676,0.5599036 0.559904,0.5599036 0.309228,0 0.559904,-0.2506752 0.559904,-0.5599036 z"
+         id="path28"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      <g
+         id="g28"
+         transform="matrix(0.35277777,0,0,0.35277777,62.11588,24.493153)"
+         style="stroke:none;stroke-width:0.753;stroke-miterlimit:10" />
+      <title
+         id="title28">node port</title>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 74.080358,79.822388 13.505915,-0.08087"
+       id="path29"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g32"
+       transform="translate(48.778868,76.386915)">
+      <title
+         id="title29">node port</title>
+      <path
+         d="M 38.362832,3.299976 H 40.3628"
+         fill="none"
+         id="path30"
+         style="stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      <path
+         d="m 40.922704,3.299976 c 0,-0.3092284 -0.250676,-0.5599036 -0.559904,-0.5599036 -0.309228,0 -0.559904,0.2506752 -0.559904,0.5599036 0,0.3092284 0.250676,0.5599036 0.559904,0.5599036 0.309228,0 0.559904,-0.2506752 0.559904,-0.5599036 z"
+         id="path31"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264649;stroke-miterlimit:10" />
+      <g
+         id="g31"
+         transform="matrix(0.35277777,0,0,0.35277777,62.11588,24.493153)"
+         style="stroke:none;stroke-width:0.753;stroke-miterlimit:10" />
+      <title
+         id="title31">node port</title>
+    </g>
+  </g>
+</svg>
